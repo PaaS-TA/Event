@@ -15,7 +15,7 @@
     <td colspan=4><a href="https://github.com/PaaS-TA/PaaS-TA-Monitoring">모니터링 대시보드</a></td>
   </tr>
   <tr align=center>
-    <td rowspan=2 colspan=2>🚩<a href="https://github.com/PaaS-TA/monitoring-deployment">모니터링</a></td>
+    <td rowspan=2 colspan=2>🚩 <a href="https://github.com/PaaS-TA/monitoring-deployment">모니터링</a></td>
     <td><a href="https://github.com/PaaS-TA/PaaS-TA-Monitoring-Release">Monitoring Release</a></td>
     <td><a href="https://github.com/PaaS-TA/paas-ta-monitoring-logsearch-release">Logsearch Release</a></td>
     <td><a href="https://github.com/PaaS-TA/paas-ta-monitoring-influxdb-release">InfluxDB Release</a></td>
