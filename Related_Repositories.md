@@ -15,7 +15,7 @@
     <td colspan=4><a href="https://github.com/PaaS-TA/PaaS-TA-Monitoring">모니터링 대시보드</a></td>
   </tr>
   <tr align=center>
-    <td rowspan=2 colspan=2>🚩 <a href="https://github.com/PaaS-TA/monitoring-deployment">모니터링</a></td>
+    <td rowspan=2 colspan=2><a href="https://github.com/PaaS-TA/monitoring-deployment">모니터링</a></td>
     <td><a href="https://github.com/PaaS-TA/PaaS-TA-Monitoring-Release">Monitoring</a></td>
     <td><a href="https://github.com/PaaS-TA/paas-ta-monitoring-logsearch-release">Logsearch</a></td>
     <td><a href="https://github.com/PaaS-TA/paas-ta-monitoring-influxdb-release">InfluxDB</a></td>
@@ -43,13 +43,13 @@
   </tr>
   <tr align=center>
     <td><a href="https://github.com/PaaS-TA/PAAS-TA-DELIVERY-PIPELINE-RELEASE">Pipeline</a></td>
-    <td align=center><a href="https://github.com/PaaS-TA/rabbitmq-release">RabbitMQ</a></td>
+    <td><a href="https://github.com/PaaS-TA/rabbitmq-release">RabbitMQ</a></td>
     <td><a href="https://github.com/PaaS-TA/PAAS-TA-ON-DEMAND-REDIS-RELEASE">Redis</a></td>
     <td><a href="https://github.com/PaaS-TA/PAAS-TA-SOURCE-CONTROL-RELEASE">Source Control</a></td>
   </tr>
   <tr align=center>
     <td><a href="https://github.com/PaaS-TA/PAAS-TA-WEB-IDE-RELEASE-NEW">WEB-IDE</a></td>
-    <td></td>
+    <td><a href="https://github.com/PaaS-TA/custom-domain-release">🚩 Custom Domain</a></td>
     <td></td>
     <td></td>
   </tr>
@@ -62,9 +62,3 @@
   </tr>
 </table>
 <i>🚩 You are here.</i>
-
-
-
-  
-
-  
