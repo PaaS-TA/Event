@@ -48,8 +48,7 @@
     <td><a href="https://github.com/PaaS-TA/PAAS-TA-SOURCE-CONTROL-RELEASE">Source Control</a></td>
   </tr>
   <tr align=center>
-    <td><a href="https://github.com/PaaS-TA/PAAS-TA-WEB-IDE-RELEASE-NEW">WEB-IDE</a></td>
-    <td><a href="https://github.com/PaaS-TA/custom-domain-release">🚩 Custom Domain</a></td>
+    <td><a href="https://github.com/PaaS-TA/PAAS-TA-WEB-IDE-RELEASE-NEW">🚩WEB-IDE</a></td>
     <td></td>
     <td></td>
   </tr>
